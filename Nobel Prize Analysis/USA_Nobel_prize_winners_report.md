@@ -42,7 +42,7 @@ The 1930s marked a pivotal decade in which the United States began to dominate t
 ---
 
 ## 📊 Nobel Prize Trends: 1930s and Beyond
-![graph of usa noble winner to decade](image.png) 
+![graph of usa noble winner to decade](output-2.png) 
 - The graph shows a **sharp increase in U.S.-born Nobel winners** starting in the 1930s.
 - Although the U.S. had few Nobel laureates in the early 20th century, the **1930s marked a tipping point**.
 - By the **1940s and 1950s**, the U.S. had firmly established itself as a **global scientific and intellectual powerhouse**.
